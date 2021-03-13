@@ -22,8 +22,8 @@ GIU Controller for A-Bot https://github.com/dpcwee/abot
 7. Кнопка "Reload" - Перезапускает окно Контроллера
 8. Кнопка "Close" - Закрывает окно Контроллера
 9. Cycles: - счетчки перезапуска бота
-10. Кнопка "A-Bot website" - открывает в браузере страничку A-Bot на GitHub - https://github.com/dpcwee/abot
-11. Кнопка "GUI Controller website" - открывает в браузере страничку GIU Controller на GitHub - https://github.com/TomBishop-Auto/A-Bot_GUI
+10. Кнопка "A-Bot website" - открывает в браузере страничку A-Bot - https://github.com/dpcwee/abot
+11. Кнопка "GUI Controller website" - открывает в браузере страничку GIU Controller - https://github.com/TomBishop-Auto/A-Bot_GUI
 12. Кнопка "Donate website" - открывает в браузере страничку с риквизитами, если появилось жгучее желание поддержать мну. 
 
 # Donate

@@ -1,4 +1,4 @@
-# A-Bot_GUI
+# A-Bot_GUI DeltaController.exe
 GIU Controller for A-Bot
 Всем привет с вами Bishop
 

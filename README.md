@@ -27,7 +27,7 @@ GIU Controller for A-Bot https://github.com/dpcwee/abot
 11. Кнопка "GUI Controller website" - открывает в браузере страничку GIU Controller - https://github.com/TomBishop-Auto/A-Bot_GUI
 12. Кнопка "Donate website" - открывает в браузере страничку с реквизитами, если появилось жгучее желание поддержать мну. 
 
-# Donate
+# Donate_lo
 
 1. BNB BEP20 (BSC) - 0x1cb64ae704aa04a979b2096ea9d539660a8c04fe
 2. USDT TRC20      - TNdwdecdCGboB2ede7TBwxTqNkwjVEfEQQ

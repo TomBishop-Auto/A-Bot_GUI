@@ -1,5 +1,5 @@
 # A-Bot_GUI DeltaController.exe
-GIU Controller for A-Bot
+GIU Controller for A-Bot https://github.com/dpcwee/abot
 Всем привет с вами Bishop
 
 !!!Внимание - читаем всё!!!

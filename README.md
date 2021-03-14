@@ -45,4 +45,4 @@ GIU Controller for A-Bot https://github.com/dpcwee/abot
 
 
 # Скрины пльзователей
-![](./pic/Andrey_Delta.png)
+![](./pic/Andrey_Delta.png) ![](./pic/Ivan_Delta.png)

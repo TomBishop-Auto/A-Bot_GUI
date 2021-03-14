@@ -8,7 +8,7 @@ GIU Controller for A-Bot https://github.com/dpcwee/abot
 3. Файл DeltaController.exe должен находиться в папке с ботом
 4. Запуск DeltaController.exe от имени Администратора, т.к. окно А-бота игнорирует комаду на закрытие, если она не от Администратора
 
-СКАЧАТЬ: https://github.com/TomBishop-Auto/A-Bot_GUI/releases
+СКАЧАТЬ DeltaController.exe: https://github.com/TomBishop-Auto/A-Bot_GUI/releases
 
 0. НИКАКИХ Гарантий.
 1. Если Запущена автоматика, то желательно компьютер не трогать, ну сами понимаете, может быть конфликт с вашими действиями

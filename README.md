@@ -1,6 +1,8 @@
 # A-Bot_GUI DeltaController.exe crafted by TomBishop
 GIU Controller for A-Bot https://github.com/dpcwee/abot
 
+СКАЧАТЬ: https://github.com/TomBishop-Auto/A-Bot_GUI/releases
+
 !!!Внимание - читаем всё!!!
 
 0. НИКАКИХ Гарантий.

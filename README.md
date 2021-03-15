@@ -37,8 +37,7 @@ GIU Controller for A-Bot https://github.com/dpcwee/abot
 
 1. BNB BEP20 (BSC) - 0x1cb64ae704aa04a979b2096ea9d539660a8c04fe
 2. USDT TRC20      - TNdwdecdCGboB2ede7TBwxTqNkwjVEfEQQ
-3. BTC             - 1Cftcodfw4NLXwrYi4svYnofHvkuhdF2Jj
-4. ETH ERC20       - 0x1cb64ae704aa04a979b2096ea9d539660a8c04fe
+3. ETH ERC20       - 0x1cb64ae704aa04a979b2096ea9d539660a8c04fe
 
 
 

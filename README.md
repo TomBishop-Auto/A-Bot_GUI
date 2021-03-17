@@ -5,7 +5,7 @@ GIU Controller for A-Bot https://github.com/dpcwee/abot
 0. Windows
 1. Версия бота 1.25 и выше
 2. Файлы Автоматики должны находиться в папке с ботом к которому будет превязан
-3. Имена файлов бота должны совпадать с именами в настройках файла data\cfg.ini
+3. Имена exe файлов А-бота должны совпадать с именами в настройках файла data\cfg.ini
 4. Запуск DeltaController.exe от имени Администратора.
 
 СКАЧАТЬ DeltaController.exe: https://github.com/TomBishop-Auto/A-Bot_GUI/releases

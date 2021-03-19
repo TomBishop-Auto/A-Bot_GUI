@@ -8,7 +8,7 @@ GIU Controller for A-Bot https://github.com/dpcwee/abot
 3. Имена exe файлов А-бота должны совпадать с именами в настройках файла data\cfg.ini PS: Нельзя удалять строчики из ini может привести к сбою в работе, можно только МЕНЯТЬ параметры
 4. Запуск DeltaController.exe от имени Администратора.
 
-СКАЧАТЬ DeltaController.exe: https://github.com/TomBishop-Auto/A-Bot_GUI/releases
+СКАЧАТЬ DeltaController: https://github.com/TomBishop-Auto/A-Bot_GUI/releases
 
 1. Не стоит закрывать бота в момент, когда идёт активность ордеров в боте - это может привести к сбою в базе данных бота
 2. Задача автоматики по максимуму оставлять бота в работе, посему даже если бота ВЫКЛючить, то ВКЛюченная автоматика постарается вернуть его в работу

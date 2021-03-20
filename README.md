@@ -33,7 +33,9 @@ GIU Controller for A-Bot https://github.com/dpcwee/abot
 
 # Donate_lo
 
-1. BNB BEP20 (BSC) - 0x1cb64ae704aa04a979b2096ea9d539660a8c04fe
-2. USDT TRC20      - TNdwdecdCGboB2ede7TBwxTqNkwjVEfEQQ
-3. ETH ERC20       - 0x1cb64ae704aa04a979b2096ea9d539660a8c04fe
+1. BNB ERC20,BEP20(BSC)        - 0x1cb64ae704aa04a979b2096ea9d539660a8c04fe
+2. ETH ERC20,BEP20 (BSC)       - 0x1cb64ae704aa04a979b2096ea9d539660a8c04fe
 
+3. USDT ERC20                  - 0x1cb64ae704aa04a979b2096ea9d539660a8c04fe
+4. USDT TRC20                  - TNdwdecdCGboB2ede7TBwxTqNkwjVEfEQQ
+5. USDT OMNI                   - 17gEgwogKo73ULtfMpWEKtWGZrDUBTReDA

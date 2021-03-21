@@ -7,6 +7,7 @@ GIU Controller for A-Bot https://github.com/dpcwee/abot
 2. Файлы Автоматики должны находиться в папке с ботом к которому будет превязан
 3. Имена exe файлов А-бота должны совпадать с именами в настройках файла data\cfg.ini PS: Нельзя удалять строчики из ini может привести к сбою в работе, можно только МЕНЯТЬ параметры
 4. Запуск DeltaController.exe от имени Администратора.
+5. Подключить DeltaController к А-Bot
 
 СКАЧАТЬ DeltaController: https://github.com/TomBishop-Auto/A-Bot_GUI/releases
 

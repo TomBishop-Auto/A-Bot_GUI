@@ -47,7 +47,7 @@ _____________________________________________________________________________
 13. Кнопка "Как запускать автоматику" - открывает в браузере страничку GIU Controller - https://github.com/TomBishop-Auto/A-Bot_GUI/blob/main/README.md#help
 14. Кнопка "Donate website" - открывает в браузере страничку с реквизитами, если появилось жгучее желание поддержать мну
 
-СКАЧАТЬ DeltaController: https://github.com/TomBishop-Auto/A-Bot_GUI/releases
+# СКАЧАТЬ DeltaController: https://github.com/TomBishop-Auto/A-Bot_GUI/releases
 _____________________________________________________________________________
 # Donate_lo
 

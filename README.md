@@ -31,7 +31,7 @@ _____________________________________________________________________________
 3. Что-то не так с автоматикой? ЖМЕМ - RELOAD это перезапустит Контроллер
 
 # Что умеет DeltaController:
-![](./pic/Main141.png)
+![](./pic/Main143.png)
 1. Вверху 2 RadioButton - выбор версии бота для контроля
 2. Кнопка "Start Bot" - запускает бота, выбранного в пункте 1, если бот уже запущен - всплывет предупреждение
 3. Кнопка "Connect" - пытается подключиться к выбранному в пункте 1 боту
@@ -44,7 +44,7 @@ _____________________________________________________________________________
 10. Кнопка "Close GUI" - Закрывает окно DeltaController
 11. Cycles: - счетчки перезапуска А-Бота
 12. Кнопка "A-Bot website" - открывает в браузере страничку A-Bot - https://github.com/dpcwee/abot
-13. Кнопка "GUI Controller website" - открывает в браузере страничку GIU Controller - https://github.com/TomBishop-Auto/A-Bot_GUI
+13. Кнопка "Как запускать автоматику" - открывает в браузере страничку GIU Controller - https://github.com/TomBishop-Auto/A-Bot_GUI/blob/main/README.md#help
 14. Кнопка "Donate website" - открывает в браузере страничку с реквизитами, если появилось жгучее желание поддержать мну
 
 СКАЧАТЬ DeltaController: https://github.com/TomBishop-Auto/A-Bot_GUI/releases

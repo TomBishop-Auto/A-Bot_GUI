@@ -1,7 +1,7 @@
 # A-Bot_GUI DeltaController.exe crafted by TomBishop
 GIU Controller for A-Bot https://github.com/dpcwee/abot
 
-# Условия запуска контроллера\автоматики:
+# Условия запуска контроллера-автоматики:
 0. Windows
 1. Версия бота 1.25 и выше
 2. Файлы Автоматики должны находиться в папке с ботом к которому будет превязан
